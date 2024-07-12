@@ -1,10 +1,8 @@
-![alt text](/INFO/Logo.png)
-# WildEye
+
+# simbawild detection system
 Animal Detection and Classification using YOLO.
 
-You can try the demo [here](https://shreehari-revankar.github.io/WildEye/).
 
-![Demo](/INFO/demoImg.png)
 
 This repository contains the implementation of an animal detection system using transfer learning on YOLO (You Only Look Once) which trained on the COCO (Common Objects in Context) dataset. The goal of this project is to develop an accurate animal detection model by leveraging the knowledge learned from a pre-trained YOLO model on a large-scale dataset.
 
